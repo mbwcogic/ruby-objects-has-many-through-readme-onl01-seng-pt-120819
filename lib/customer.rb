@@ -25,3 +25,5 @@ def waiters
     waiter.customer == self 
   end 
 end
+end 
+
